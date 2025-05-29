@@ -1,0 +1,15 @@
+langchain_core
+python-dotenv
+langchain-groq
+langchain
+langchain_community
+langchain_core
+pytesseract
+langchain_text_splitters
+streamlit
+huggingface_hub
+reportlab
+pypdf
+faiss-cpu 
+opencv-python
+PyPDF2
